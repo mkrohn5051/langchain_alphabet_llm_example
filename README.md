@@ -5,7 +5,7 @@ Short Description: Machine Learning: using langchain in a simple example.<br>
 ## File Information<br>
 Written with Python 3.8.1<br>
 
-Included .zip file of .pdfs.<br>
+All of the .pdfs found here: https://abc.xyz/investor/previous/?utm_source=substack&utm_medium=email<br>
 
 A Jupyter Notebook with the following packages:<br>
 langchain<br>
